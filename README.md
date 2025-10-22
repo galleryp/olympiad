@@ -190,7 +190,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Creator:** Gowri Paliwal
-- **GitHub:** [@gowripaliwal](https://github.com/gowripaliwal)
+- **GitHub:** [@galleryp](https://github.com/galleryp)
 
 ## ⭐ Support
 
